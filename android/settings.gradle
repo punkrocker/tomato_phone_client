@@ -1,0 +1,3 @@
+rootProject.name = 'tomato_phone_client'
+
+include ':app'
