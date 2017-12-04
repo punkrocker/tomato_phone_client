@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 import {
+    Button
+} from 'react-native';
+import {
     StackNavigator
   } from 'react-navigation';
   
-class Main extends React.Component {
+export default class Main extends React.Component {
     static navigationOptions = {
         title: "Main"
     }
